@@ -6,8 +6,22 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites"/>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\bkg_parchment</background>
+  </backgrounds>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\fnt_blkAdder</font>
+  </fonts>
+  <objects name="objects">
+    <object>objects\obj_name</object>
+    <object>objects\obj_hitPoints</object>
+    <object>objects\obj_currentHitPoints</object>
+    <object>objects\button</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\rm_main</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
